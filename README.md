@@ -1,13 +1,16 @@
-About
-This project is a front page clone of Amazon’s website, created purely with HTML and CSS to practice layout, styling, and responsive design. It replicates the main navigation bar, search panel, hero section, product categories, and footer.
+<h1>About</h1>
+<p>This project is a front page clone of Amazon’s website, created purely with HTML and CSS to practice layout, styling, and responsive design. It replicates the main navigation bar, search panel, hero section, product categories, and footer.</p>
 
-*Features
--Responsive navigation bar with logo, location, search bar, account options, and cart icon.
+<h1>Features</h1>
+<ul>
+<li>Responsive navigation bar with logo, location, search bar, account options, and cart icon.</li>
+<li>Dropdown-like search category selector (static for practice).</li>
+<li>Hero section with background image and a promotional message.</li>
+<li>Shop categories displayed as grid boxes with images and titles.</li>
+<li>Footer with multiple informational links and branding.</li>
+</ul>
+
 <br>
--Dropdown-like search category selector (static for practice).
--Hero section with background image and a promotional message.
--Shop categories displayed as grid boxes with images and titles.
--Footer with multiple informational links and branding.
 
 *Technologies Used
 HTML5: For semantic structure and content.
