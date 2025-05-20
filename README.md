@@ -3,6 +3,7 @@ This project is a front page clone of Amazon’s website, created purely with HT
 
 *Features
 -Responsive navigation bar with logo, location, search bar, account options, and cart icon.
+<br>
 -Dropdown-like search category selector (static for practice).
 -Hero section with background image and a promotional message.
 -Shop categories displayed as grid boxes with images and titles.
