@@ -60,6 +60,11 @@ margin-left: 3px;
 .nav-search:hover{
 border: 2px solid orange;
 }
+.nav-search option{
+    text-transform: capitalize;
+    text-align: left;
+    font-size: 0.85rem;
+}
 .search-select{
     background-color: #f3f3f3;
     width: 50px;
